@@ -10,8 +10,8 @@ Check out the live demo: [DevPlace Demo](https://dev-place.ainurrofiq.site)
 
 ## Tech Stack
 
--   **Frontend:** React, Redux
--   **Backend:** Express JS
+-   **Frontend:** React, Redux, Axios
+-   **Backend:** Express JS, bcrypt, Jest, Sequelize
 -   **Database:** PostgreSQL
 -   **Other Technologies:** Gemini, Cloudinary, OAuth Google, OAuth GitHub
 
