@@ -1,0 +1,6 @@
+[submodule "Client-React"]
+	path = Client-React
+	url = https://github.com/MuhammadAinurR/DevPlace-Client-React.git
+[submodule "Server-Express"]
+	path = Server-Express
+	url = https://github.com/MuhammadAinurR/DevPlace-Server-Express
