@@ -1,5 +1,7 @@
 # DevPlace
 
+![img preview](assets/preview.gif)
+
 ## Description
 
 A vibrant platform for developers to connect, share insights, and collaborate. Featuring interactive tools like posting, commenting, and liking, the platform also integrates AI-powered solutions such as code fixers, React component generators, and code migration tools—designed to enhance productivity and streamline development workflows.
